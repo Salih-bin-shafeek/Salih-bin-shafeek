@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammed Swalih</h1>
-<h3 align="center">A passionate frontend Data Analyst from India</h3>
+<h1 align="center">Hey There, I'm Muhammed Swalih</h1>
+<h3 align="center">A passionate  Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salih-bin-shafeek&label=Profile%20views&color=0e75b6&style=flat" alt="salih-bin-shafeek" /> </p>
 
