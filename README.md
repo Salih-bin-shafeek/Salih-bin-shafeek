@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammed Swalih</h1>
-<h3 align="center">A passionate frontend Data Analyst from India</h3>
+<h1 align="center">Hey There, I'm Muhammed Swalih</h1>
+<h3 align="center">A passionate  Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salih-bin-shafeek&label=Profile%20views&color=0e75b6&style=flat" alt="salih-bin-shafeek" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **pytorch,Tensor Flow,Sci-kit learn**
 
-- 💬 Ask me about **I am a passionate Data Science student with a strong interest in data analysis, visualization, and real-world problem solving. I enjoy working with data to uncover insights and build meaningful dashboards. 🛠️ Skills - Python (Data Analysis) - Power BI (Data Visualization) - Google Sheets (Data Analysis) - Microsoft Excel - Azure Fundamentals (Cloud Basics)**
+- 💬 Ask me about **I am a passionate Data Science student in IITM with a strong interest in data analysis, visualization, and real-world problem solving. I enjoy working with data to uncover insights and build meaningful dashboards. 🛠️ Skills - Python (Data Analysis) - Power BI (Data Visualization) - Google Sheets (Data Analysis) - Microsoft Excel - Azure Fundamentals (Cloud Basics)**
 
 - 📫 How to reach me **swalihbasith@gmail.com**
 
